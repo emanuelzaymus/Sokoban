@@ -1,0 +1,8 @@
+Dostante vsetky krabice na vyznacene miesta!
+
+Pohyb panacika - sipky
+Krok spat - tlacidlo stopy (neda sa vykonat viackrat za sebou)
+Restartovanie levelu - Enter/Medzernik/tlacidlo hodiny
+Ukoncenie aplikacie - Esc/cervene tlacidlo
+
+Pocita sa Vam pocet krokov a cas.

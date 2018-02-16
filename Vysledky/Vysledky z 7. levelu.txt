@@ -1,0 +1,3 @@
+               *** VYSLEDKOVA TABULKA - LEVEL 7 ***
+Den               Cas         Pocet krokov  Trvanie (sek)  Meno               
+-----------------------------------------------------------------------------------------

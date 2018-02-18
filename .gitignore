@@ -1,3 +1,5 @@
+### BlueJ ###
+
 #Doc Ordner
 **/doc
 *.class
@@ -5,3 +7,10 @@
 *.ctxt
 *.bluej
 .DS_Store
+
+
+### IntelliJ ###
+
+.idea/
+out/
+*.iml

@@ -27,3 +27,13 @@ Hráč ukončí aplikáciu stlačením klávesu Esc alebo tlačidlom s červený
 ### Verzia
 
 2016/12/14
+
+![img](https://github.com/emanuelzaymus/Sokoban/blob/master/readme_imgs/Sokoban_prez01.JPG)
+![img](https://github.com/emanuelzaymus/Sokoban/blob/master/readme_imgs/Sokoban_prez02.JPG)
+![img](https://github.com/emanuelzaymus/Sokoban/blob/master/readme_imgs/Sokoban_prez03.JPG)
+![img](https://github.com/emanuelzaymus/Sokoban/blob/master/readme_imgs/Sokoban_prez04.JPG)
+![img](https://github.com/emanuelzaymus/Sokoban/blob/master/readme_imgs/Sokoban_prez05.JPG)
+![img](https://github.com/emanuelzaymus/Sokoban/blob/master/readme_imgs/Sokoban_prez06.JPG)
+![img](https://github.com/emanuelzaymus/Sokoban/blob/master/readme_imgs/Sokoban_prez07.JPG)
+![img](https://github.com/emanuelzaymus/Sokoban/blob/master/readme_imgs/Sokoban_prez08.JPG)
+![img](https://github.com/emanuelzaymus/Sokoban/blob/master/readme_imgs/Sokoban_prez09.JPG)
